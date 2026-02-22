@@ -1,3 +1,4 @@
+git clone https://github.com/eastondean196-creator/GamingOnCodespaces
 cd GamingOnCodespaces
 pip install textual
 sleep 2
