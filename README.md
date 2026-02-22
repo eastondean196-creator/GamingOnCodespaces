@@ -29,6 +29,7 @@ it's very simple to install, there is a pseudo-graphical installer.
 first fork this repo and start a new codespace https://github.com/codespaces/new
 to install just copy and paste this command in your codespace terminal
 ```
+curl -O https://github.com/eastondean196-creator/GamingOnCodespaces/raw/branch/main/install.sh
 chmod +x install.sh
 ./install.sh
 ```
